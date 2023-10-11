@@ -12,6 +12,10 @@
 
 ## 2. 프로젝트 와이어프레임 - 아웃라인
 
+### Overall Layout
+![image](https://github.com/dh7hong/hunger-table/assets/41843325/1e3ac022-c80f-42b9-a72b-95b7cea50832)
+
+
 ### main.html
 ![image](https://github.com/dh7hong/hunger-table/assets/41843325/2bd5298c-2896-49b6-9e70-1064efb7b03c)
 
